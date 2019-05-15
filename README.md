@@ -1,0 +1,2 @@
+# sampleindex.game.io
+game
